@@ -395,14 +395,3 @@ MAE ≈ ₹22,500
 
 Computer Science Engineering Student
 Machine Learning | Data Science | AI Enthusiast
-
----
-
-This README is detailed enough that a recruiter opening your repository immediately understands:
-
-* the problem being solved,
-* the dataset,
-* the ML pipeline,
-* what each notebook does,
-* and what the deployed application offers.
-
